@@ -14,7 +14,8 @@ Algoritmo Datos_personales
 	Leer Edad
 	Mostrar "Genero"
 	Leer Genero
-	Mostrar Concatenar( "Cedula es : " , "Nombre es: " . "Apellidos es " , "Edad es " , "Genero es: ")
+	Mostrar  "Cedula es : " ,cedula "Nombre es: " ,nombre, "Apellidos es " , Apellido "Edad es " , Edad "Genero es: "
+	
 	
 	
 FinAlgoritmo
